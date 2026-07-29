@@ -147,6 +147,8 @@ Add screenshots here after uploading them.
 * <img width="1339" height="581" alt="page1" src="https://github.com/user-attachments/assets/cf946053-5b74-45d4-9dc8-19b52d7a64cc" />
 
 * Prediction Result
+  <img width="1333" height="596" alt="page 2" src="https://github.com/user-attachments/assets/0f787135-f5f0-40b8-b8ec-6ee1ee1a17b4" />
+
 * Confidence Graph
 
 ---
